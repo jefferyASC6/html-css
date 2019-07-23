@@ -1,15 +1,25 @@
 body{
-    color:red;
-    text-align:center;
+    color:lightpink;
+    font-family: 'Geostar Fill', cursive;
+
+    background-color:rgb(57,7,104)
+    /* text-align:center; */
 }
 
 p{
     color: lightblue;
+    font-family: 'Butcherman', cursive;
 }
 
 h1{
     margin: 15px;
-    border: solid;
-    border-color: green;
+    border: solid 4px;
+    border-color: darkgreen;
     padding: 20px;
+}
+
+#name{
+    font: bold 30px;
+    font-family: 'Work Sans', sans-serif;
+    color:lightblue
 }
